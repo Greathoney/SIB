@@ -1,10 +1,16 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"name": "keyboard",
+			"path": "micro/tflite-micro/tensorflow/lite/micro/examples/keyboard"
 		},
 		{
+			"name": "tflite-micro",
 			"path": "micro/tflite-micro"
+		},
+		{
+			"name": "SIB",
+			"path": "."
 		}
 	],
 	"settings": {
